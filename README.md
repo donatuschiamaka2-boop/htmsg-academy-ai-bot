@@ -166,7 +166,7 @@ telegram-bot-portfolio/
 
 For questions or support regarding this automation system:
 - Email: donatuschiamaka2@gmail.com
-- Telegram: @your_telegram_handle
+- Telegram: @amaka54321
 
 ## 📝 License
 
