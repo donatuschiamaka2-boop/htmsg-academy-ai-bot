@@ -174,6 +174,7 @@ This project was built as a portfolio demonstration for AI Systems Virtual Assis
 
 ---
 
-**Built with ❤️ by Donatus Chiamaka**  
+**Built with ❤️ by Chiamaka (Donatus) Mbaneto**  
 *AI Systems Virtual Assistant Portfolio Project*  
+
 *January 2026*
